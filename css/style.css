@@ -1,0 +1,29 @@
+.titulo {
+	text-align: center;
+	font-size: 20px;
+}
+
+body {
+	background-color: #7f95e1;
+}
+
+.fundo {
+	background-color: white;
+}
+
+p {
+	font-size: 20px;
+}
+
+.nome-produto {
+	background-color: white;
+	border: 1px solid black;
+}
+
+.botao {
+	padding: 4% 38%;
+}
+
+.bg-success {
+	text-transform: capitalize;
+}
