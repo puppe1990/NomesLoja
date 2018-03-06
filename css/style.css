@@ -13,6 +13,7 @@ body {
 
 p {
 	font-size: 20px;
+	text-align: center;
 }
 
 .nome-produto {
@@ -26,4 +27,8 @@ p {
 
 .bg-success {
 	text-transform: capitalize;
+}
+footer {
+	text-align: center;
+	background-color: white;
 }
